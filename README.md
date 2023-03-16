@@ -158,3 +158,6 @@ df.isnull().sum()
 ### isnull().sum() after cleaning
 
 ![output](/j.png)
+
+### RESULT
+Thus the given data is read,cleansed and cleaned data is saved into the file.
